@@ -1,0 +1,42 @@
+h1 {
+  font-size: 5em;
+}
+
+#profile_pic {
+  height: 400px;
+}
+
+.elements {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.portals {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding-top: 20px;
+gap: 30px;
+}
+
+.social-icon {
+  height: 50px;
+}
+
+body {
+  background-color: wheat;
+  color: burlywood;
+}
+
+div {
+  background-color: wheat;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}

@@ -1,5 +1,5 @@
 # Personal Website Readme
-Hey there! I'm Pratham, a first year Data Science student at UC Irvine!
+Hey there! I'm Pratham, a first year Software Engineering student at UC Irvine!
 
 I'm truly fascinated by software engineering and machine learning!
 

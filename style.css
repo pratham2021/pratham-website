@@ -28,15 +28,22 @@ gap: 30px;
 }
 
 body {
-  background-color: wheat;
-  color: burlywood;
+  background-color: rgb(111, 179, 242);
+  color: clear;
+  text-decoration: none;
+
 }
 
 div {
-  background-color: wheat;
+  background-color: rgb(111, 179, 242);
+  color: clear;
 }
 
 a {
-  color: blue;
   text-decoration: none;
+}
+
+img {
+   color: clear;
+    text-decoration: none;
 }

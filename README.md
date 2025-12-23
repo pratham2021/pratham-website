@@ -1,5 +1,5 @@
 # Personal Website Readme
-Hey there! I'm Pratham, a second year Software Engineering student at UC Irvine!
+Hey there! I'm Pratham, a second year Computer Science student at UC Irvine!
 
 I'm truly fascinated by software engineering and machine learning!
 
